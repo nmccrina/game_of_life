@@ -1,0 +1,10 @@
+ABOUT
+-------------------------------------------------------------------------------
+
+This is a Java implementation of the Game of Life, a cellular automaton devised
+by the mathematician John Conway. For more information on the game of life,
+visit http://en.wikipedia.org/wiki/Conway's_Game_of_Life.
+
+BUILDING
+-------------------------------------------------------------------------------
+
