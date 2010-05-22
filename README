@@ -8,3 +8,7 @@ visit http://en.wikipedia.org/wiki/Conway's_Game_of_Life.
 BUILDING
 -------------------------------------------------------------------------------
 
+The program of course requires the presence of a JDK to be compiled. Also, it
+uses Ant to manage the build. To compile and run the program, ensure those two
+dependencies are installed, then cd into the top-level directory (the one with
+build.xml) and run 'ant'. That's it!
