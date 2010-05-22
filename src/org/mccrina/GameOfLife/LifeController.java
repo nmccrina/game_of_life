@@ -122,7 +122,7 @@ public class LifeController
 	public void actionPerformed(ActionEvent e)
 	{
 	    JOptionPane.showMessageDialog(window,
-		"Copyright (c) 2010, Ocelot Software\nAll rights reserved.",
+		"Copyright (c) 2010, Nathan McCrina\nAll rights reserved.",
 		"About", JOptionPane.PLAIN_MESSAGE,
 		null);
 	}
